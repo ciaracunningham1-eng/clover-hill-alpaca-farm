@@ -61,3 +61,13 @@ section ul{
 list-style-position:inside;
 padding:0;
 }
+
+.logo-bar{
+background:white;
+text-align:center;
+padding:10px;
+}
+
+.logo-bar img{
+max-width:350px;
+}
