@@ -34,9 +34,10 @@ position:relative;
 
 .banner img{
 width:100%;
-display:block;
 height:500px;
 object-fit:cover;
+object-position:center top;
+display:block;
 }
 
 .banner-text{
