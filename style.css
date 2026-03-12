@@ -71,3 +71,15 @@ padding:10px;
 .logo-bar img{
 max-width:350px;
 }
+
+.logo-bar{
+background:white;
+text-align:center;
+padding:10px;
+}
+
+.logo-bar img{
+max-width:350px;
+width:100%;
+height:auto;
+}
