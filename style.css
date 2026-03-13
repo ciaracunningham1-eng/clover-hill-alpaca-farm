@@ -71,6 +71,11 @@ padding:20px 40px;
 border-radius:10px;
 }
 
+.banner-text p{
+margin-top:8px;
+font-size:16px;
+}
+
 section{
 max-width:900px;
 margin:auto;
