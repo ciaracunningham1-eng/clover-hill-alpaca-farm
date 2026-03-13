@@ -158,3 +158,16 @@ transition:transform 0.3s ease;
 .gallery img:hover{
 transform:scale(1.05);
 }
+
+footer{
+background:#4e6f40;
+color:white;
+text-align:center;
+padding:15px 0;
+margin-top:40px;
+font-size:14px;
+}
+
+footer p{
+margin:0;
+}
