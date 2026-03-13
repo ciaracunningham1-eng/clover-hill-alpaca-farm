@@ -40,6 +40,10 @@ object-position:center 30%;
 display:block;
 }
 
+.contact-banner img{
+object-position:center 20%;
+}
+
 .banner-text{
 position:absolute;
 top:40%;
