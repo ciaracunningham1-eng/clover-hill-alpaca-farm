@@ -198,7 +198,8 @@ box-sizing:border-box;
 }
 
 button{
-margin-top:20px;
+display:block;
+margin:20px auto;
 padding:10px 20px;
 background:#4e6f40;
 color:white;
@@ -208,6 +209,7 @@ font-size:16px;
 cursor:pointer;
 }
 
-button:hover{
-background:#3c5731;
+button{
+display:block;
+margin:20px auto;
 }
