@@ -11,6 +11,10 @@ text-align:center;
 padding:25px 0;
 }
 
+header p{
+margin:0;
+}
+
 nav{
 background:#4e6f40;
 text-align:center;
