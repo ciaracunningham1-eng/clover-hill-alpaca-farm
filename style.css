@@ -214,3 +214,22 @@ button{
 display:block;
 margin:20px auto;
 }
+
+.stud-profile{
+display:flex;
+gap:30px;
+align-items:center;
+justify-content:center;
+flex-wrap:wrap;
+margin-top:40px;
+}
+
+.stud-profile img{
+width:320px;
+border-radius:10px;
+}
+
+.stud-info{
+max-width:500px;
+text-align:left;
+}
