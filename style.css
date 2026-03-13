@@ -218,10 +218,12 @@ margin:20px auto;
 .stud-profile{
 display:flex;
 gap:30px;
-align-items:center;
+align-items:flex-start;
 justify-content:center;
 flex-wrap:wrap;
 margin-top:40px;
+border-top:1px solid #ddd;
+padding-top:30px;
 }
 
 .stud-profile img{
@@ -236,9 +238,8 @@ text-align:left;
 
 .stud-profile img{
 width:100%;
-max-width:350px;
+max-width:320px;
 height:auto;
 border-radius:10px;
 display:block;
-margin:auto;
 }
