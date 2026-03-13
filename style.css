@@ -22,8 +22,11 @@ margin:0;
 
 nav{
 background:#4e6f40;
-text-align:center;
-padding:12px 0;
+display:flex;
+justify-content:center;
+align-items:center;
+gap:30px;
+padding:14px 0;
 position:sticky;
 top:0;
 z-index:1000;
@@ -32,10 +35,8 @@ font-size:18px;
 
 nav a{
 color:white;
-margin:0 15px;
 text-decoration:none;
 font-weight:bold;
-font-size:18px;
 }
 
 nav a:hover{
