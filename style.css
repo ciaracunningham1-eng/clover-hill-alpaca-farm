@@ -83,6 +83,8 @@ padding:10px;
 
 .logo-bar img{
 width:160px;
+display:block;
+margin:auto;
 }
 
 .logo-bar{
