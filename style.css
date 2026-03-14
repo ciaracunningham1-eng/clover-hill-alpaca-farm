@@ -238,3 +238,56 @@ height:auto;
 border-radius:10px;
 display:block;
 }
+
+.stud-awards{
+margin-top:10px;
+padding-left:20px;
+}
+
+.stud-awards li{
+margin-bottom:6px;
+}
+
+.stud-profile{
+display:flex;
+gap:30px;
+align-items:flex-start;
+margin-top:40px;
+padding:25px;
+background:white;
+border-radius:12px;
+box-shadow:0 4px 10px rgba(0,0,0,0.08);
+border:1px solid #eee;
+flex-wrap:wrap;
+}
+
+.stud-profile img{
+width:100%;
+max-width:320px;
+height:auto;
+border-radius:10px;
+display:block;
+}
+
+.stud-info{
+max-width:520px;
+text-align:left;
+}
+
+.stud-info h3{
+margin-top:0;
+}
+
+.stud-awards{
+margin-top:15px;
+padding-left:18px;
+}
+
+.stud-awards li{
+margin-bottom:6px;
+}
+
+.stud-profile:hover{
+transform:translateY(-3px);
+transition:0.2s;
+}
