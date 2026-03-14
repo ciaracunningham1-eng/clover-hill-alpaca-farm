@@ -274,3 +274,7 @@ margin-bottom:6px;
 transform:translateY(-3px);
 transition:0.2s;
 }
+
+.stud-profile{
+transition:0.2s ease;
+}
