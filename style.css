@@ -308,3 +308,7 @@ text-decoration:none;
 .instagram-section a:hover{
 text-decoration:underline;
 }
+
+.instagram-section h2{
+text-align:center;
+}
