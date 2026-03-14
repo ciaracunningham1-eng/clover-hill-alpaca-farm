@@ -312,3 +312,16 @@ text-decoration:underline;
 .instagram-section h2{
 text-align:center;
 }
+
+.instagram-gallery img{
+transition: transform 0.3s ease;
+}
+
+.instagram-gallery img:hover{
+transform: scale(1.05);
+}
+
+.instagram-section p{
+margin-top:15px;
+font-size:18px;
+}
