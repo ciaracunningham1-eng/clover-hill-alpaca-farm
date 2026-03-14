@@ -215,28 +215,6 @@ display:block;
 margin:20px auto;
 }
 
-.stud-info{
-max-width:500px;
-text-align:left;
-}
-
-.stud-profile img{
-width:100%;
-max-width:320px;
-height:auto;
-border-radius:10px;
-display:block;
-}
-
-.stud-awards{
-margin-top:10px;
-padding-left:20px;
-}
-
-.stud-awards li{
-margin-bottom:6px;
-}
-
 .stud-profile{
 display:flex;
 gap:30px;
@@ -252,10 +230,11 @@ flex-wrap:wrap;
 
 .stud-profile img{
 width:100%;
-max-width:320px;
+max-width:280px;
 height:auto;
 border-radius:10px;
 display:block;
+margin:0 auto 20px auto;
 }
 
 .stud-info{
