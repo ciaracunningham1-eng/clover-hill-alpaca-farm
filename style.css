@@ -325,3 +325,18 @@ transform: scale(1.05);
 margin-top:15px;
 font-size:18px;
 }
+
+.cria-gallery{
+display:flex;
+gap:20px;
+justify-content:center;
+flex-wrap:wrap;
+margin-top:20px;
+}
+
+.cria-gallery img{
+width:250px;
+height:250px;
+object-fit:cover;
+border-radius:10px;
+}
