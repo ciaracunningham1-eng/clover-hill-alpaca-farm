@@ -298,3 +298,13 @@ border-radius:10px;
 text-align:center;
 margin-top:40px;
 }
+
+.instagram-section a{
+color:#4e6f40;
+font-weight:bold;
+text-decoration:none;
+}
+
+.instagram-section a:hover{
+text-decoration:underline;
+}
