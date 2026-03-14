@@ -248,6 +248,17 @@ margin-top:0;
 margin-bottom:5px;
 }
 
+.stud-info h3::after{
+content:"";
+display:block;
+width:40px;
+height:3px;
+background:#4e6f40;
+margin-top:6px;
+margin-bottom:12px;
+border-radius:2px;
+}
+
 .stud-info h4{
 margin-top:20px;
 }
